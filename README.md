@@ -22,7 +22,7 @@ python WeightCalcTool.py
 # Packaging into a EXE
 PyInstaller may be used to package the Python script into an executable file:
 ```
-pyinstaller --onefile --noconsole --icon=icon.ico --version-file version WeightCalcTool.py
+pyinstaller --onefile --noconsole --icon=icon.ico --version-file=version WeightCalcTool.py
 ```
 # Contributing
 Contributions are welcome.
