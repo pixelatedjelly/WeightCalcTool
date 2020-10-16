@@ -19,6 +19,11 @@ python WeightCalcTool.py
 5. Hit **Start**.<br>
 6. A infobox will display the result.<br>
 ![Result infobox](https://i.imgur.com/Dzo6oX7.png)
+# Packaging into a EXE
+PyInstaller may be used to package the Python script into an executable file:
+```
+pyinstaller --onefile --noconsole --icon=icon.ico --version-file version WeightCalcTool.py
+```
 # Contributing
 Contributions are welcome.
 1. Fork the project
