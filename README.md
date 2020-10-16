@@ -21,8 +21,8 @@ python WeightCalcTool.py
 ![Result infobox](https://i.imgur.com/Dzo6oX7.png)
 # Contributing
 Contributions are welcome.
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature`)
-3. Commit your Changes (`git commit -m 'Add some feature'`)
-4. Push to the Branch (`git push origin feature`)
-5. Open a Pull Request
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature`)
+5. Open a pull request
